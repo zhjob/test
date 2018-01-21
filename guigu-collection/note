@@ -1,0 +1,11 @@
+一、建maven工程
+	1. Group Id: com.atguigu
+	2. Artifact Id: 項目名
+	3. 配置jsp页面放置路径：
+	        右鍵項目 --> Properties --> Project facets --> 去掉Dynamic Web Module的对勾，再打上对勾
+	   --> 配置页面路径：src/main/webapp
+	   
+二、添加项目依赖jar包
+	maven repository
+	
+三、 引入easyUI前端框架
